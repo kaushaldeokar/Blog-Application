@@ -1,0 +1,12 @@
+// can be resolved in backend efectively//
+// Cors- Cross Origin resource Sharing
+
+reason q hota h-
+1. initially cors error- browser security feature//
+2. quki backend chal rha kisi aur post pr and front end kisi aur 
+port pr simultaneously 2 request generated on 2 server//
+       
+
+       Error: Request 
+       made resquest but null response form backend
+       
